@@ -4,6 +4,8 @@
  To start the application on Dev Server
 ### `yarn run build` 
  to build application for deploy
+ ### `yarn test` 
+ to run unit test cases
 
 ### User actions
 1. hasErrored : Detects error while saving user info
