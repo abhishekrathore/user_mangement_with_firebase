@@ -1,0 +1,9 @@
+export const SET_RUNTIME_VARIABLE = 'SET_RUNTIME_VARIABLE';
+export const USER_HAS_ERRORED = 'USER_HAS_ERRORED';
+export const USER_IS_LOADING = 'USER_IS_LOADING';
+export const FETCH_DATA_SUCCESS = 'FETCH_DATA_SUCCESS';
+export const FIREBASE_AUTH_DOMAIN = 'userprofiledemo-78ea3.firebaseapp.com';
+export const FIREBASE_DATABASE_URL = 'https://userprofiledemo-78ea3.firebaseio.com';
+export const FIREBASE_PROJECT_ID = 'userprofiledemo-78ea3';
+export const FIREBASE_API_KEY = 'AIzaSyDqjP2vGIuekmApHHyGUIY7FAFYP0CRFgE';
+export const FIREBASE_MESSAGING_SENDER_ID = '779272111289';
